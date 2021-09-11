@@ -1,0 +1,19 @@
+{
+  "name": "streamingdashboard",
+  "version": "0.0.1",
+  "description": "Dashboard to help with prestream tasks and media posts, including Discord and Reddit posting. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titanian229/StreamingDashboard.git"
+  },
+  "author": "James Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titanian229/StreamingDashboard/issues"
+  },
+  "homepage": "https://github.com/titanian229/StreamingDashboard#readme"
+}
